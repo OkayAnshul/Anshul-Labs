@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://okayanshul.github.io/anshul-labs/sitemap.xml
